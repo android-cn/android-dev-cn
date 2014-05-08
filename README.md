@@ -7,7 +7,7 @@ android-cn
 ------------- | ------------- | ------------- | ------------- 
 邓凡平   | | http://blog.csdn.net/innost |  阿拉神农
 魏祝林  |  | http://blog.csdn.net/android_tutor |   
-Trinea  | https://github.com/Trinea   | http://www.trinea.cn/    | 性能优化 开源项目 
+Trinea  | https://github.com/trinea   | http://www.trinea.cn/    | 性能优化 开源项目 
 halzhang | https://github.com/halzhang |  http://www.cnblogs.com/halzhang | StartNews作者 
 wyouflf  |  https://github.com/wyouflf  |  http://my.oschina.net/u/1171837  |  xUtils作者
 张兴业  |  |  http://blog.csdn.net/xyz_lmn   | 
