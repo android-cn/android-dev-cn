@@ -1,7 +1,9 @@
 android-cn  
 ==========  
 Some Chinese Android Developers Information    
+
 邓凡平  http://blog.csdn.net/innost      
+
 魏祝林    http://blog.csdn.net/android_tutor    
 
 Trinea 性能优化 开源项目  https://github.com/Trinea  http://www.trinea.cn/    
