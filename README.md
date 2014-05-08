@@ -1,28 +1,21 @@
 android-cn  
 ==========  
-一些国内Android开发者信息    
+一些国内Android开发者信息  
 
-邓凡平  http://blog.csdn.net/innost      
 
-魏祝林    http://blog.csdn.net/android_tutor    
-
-Trinea 性能优化 开源项目  https://github.com/Trinea  http://www.trinea.cn/    
-
-halzhang StartNews作者  http://www.cnblogs.com/halzhang    
-
-wyouflf xUtils作者 https://github.com/wyouflf  http://my.oschina.net/u/1171837  
-
-张兴业  http://www.cnblogs.com/xyzlmn/  http://blog.csdn.net/xyz_lmn  
-
-代码家  http://blog.daimajia.com/  https://github.com/daimajia    
-
-stormzhang  https://github.com/stormzhang  http://stormzhang.github.io/    
-
-hanyonglu Android动画与推送  http://www.cnblogs.com/hanyonglu/    
-
-闷瓜蛋子 云OS开发  http://www.fookwood.com/    
-
-傲慢的上校  http://blog.csdn.net/lilu_leo      
+昵称  | Github | 博客 | 介绍
+------------- | ------------- | ------------- | ------------- 
+邓凡平   | http://blog.csdn.net/innost | aa |  阿拉神农
+魏祝林  | http://blog.csdn.net/android_tutor |  |   
+Trinea  | https://github.com/Trinea   | http://www.trinea.cn/    | 性能优化 开源项目 
+halzhang | https://github.com/halzhang |  http://www.cnblogs.com/halzhang | StartNews作者 
+wyouflf  |  https://github.com/wyouflf  |  http://my.oschina.net/u/1171837  |  xUtils作者
+张兴业  |  http://www.cnblogs.com/xyzlmn/  |  http://blog.csdn.net/xyz_lmn   | 
+代码家  |  http://blog.daimajia.com/  |  https://github.com/daimajia     | 
+stormzhang  |  https://github.com/stormzhang  |  http://stormzhang.github.io/     | 
+hanyonglu  |  |  http://www.cnblogs.com/hanyonglu/     | Android动画与推送 
+闷瓜蛋子 |  |  http://www.fookwood.com/     |  云OS开发 
+傲慢的上校  |  |  http://blog.csdn.net/lilu_leo   |     
 
 https://github.com/youxiachai  
 https://github.com/dodola  
