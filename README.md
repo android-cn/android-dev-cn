@@ -1,6 +1,6 @@
 android-cn  
 ==========  
-Some Chinese Android Developers Information    
+一些国内Android开发者信息    
 
 邓凡平  http://blog.csdn.net/innost      
 
