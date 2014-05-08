@@ -16,35 +16,17 @@ stormzhang  |  https://github.com/stormzhang  |  http://stormzhang.github.io/   
 hanyonglu  |  |  http://www.cnblogs.com/hanyonglu/     | Android动画与推送 
 闷瓜蛋子 |  |  http://www.fookwood.com/     |  云OS开发 
 傲慢的上校  |  |  http://blog.csdn.net/lilu_leo   |     
-
-https://github.com/youxiachai  
-https://github.com/dodola  
-https://github.com/Issacw0ng  
-https://github.com/mcxiaoke  
-https://github.com/soarcn    
-
-谦虚的天下  http://www.cnblogs.com/qianxudetianxia/     
-
-
-
-李华明Himi http://blog.csdn.net/xiaominghimi  
-
-  
-https://github.com/yangfuhai  
-https://github.com/dodola    
-https://github.com/Issacw0ng  
-https://github.com/soarcn          
-
-张国威  http://blog.csdn.net/hellogv        
-
-程序媛念茜  http://blog.csdn.net/yiyaaixuexi        
-
-wangjinyu501的专栏  http://blog.csdn.net/wangjinyu501      
-
-ASCE1885  http://blog.csdn.net/asce1885  
-
-qinjuning  http://blog.csdn.net/qinjuning          
-
-秋风的博客  http://blog.csdn.net/tangcheng_ok        
-
-http://blog.csdn.net/hellogv  
+youxiachai  |  https://github.com/youxiachai   |   |  
+dodola  | https://github.com/dodola   | | 
+Issacw0ng  | https://github.com/Issacw0ng   | 
+mcxiaoke | https://github.com/mcxiaoke   |  | 
+soarcn |  https://github.com/soarcn    |  | 
+谦虚的天下  | | http://www.cnblogs.com/qianxudetianxia/   |    
+李华明Himi  |  | http://blog.csdn.net/xiaominghimi   | 
+yangfuhai | https://github.com/yangfuhai  |   |     
+张国威   | http://blog.csdn.net/hellogv   |       
+程序媛念茜  |  http://blog.csdn.net/yiyaaixuexi  |        
+wangjinyu501  |  http://blog.csdn.net/wangjinyu501   |     
+ASCE1885 |   http://blog.csdn.net/asce1885   | 
+qinjuning  |  http://blog.csdn.net/qinjuning   |         
+秋风的博客  |  http://blog.csdn.net/tangcheng_ok   |  
