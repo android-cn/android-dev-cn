@@ -5,7 +5,7 @@ android-cn
 
 昵称  | Github | 博客 | 介绍
 ------------- | ------------- | ------------- | ------------- 
-邓凡平   | http://blog.csdn.net/innost | aa |  阿拉神农
+邓凡平   | http://blog.csdn.net/innost | |  阿拉神农
 魏祝林  | http://blog.csdn.net/android_tutor |  |   
 Trinea  | https://github.com/Trinea   | http://www.trinea.cn/    | 性能优化 开源项目 
 halzhang | https://github.com/halzhang |  http://www.cnblogs.com/halzhang | StartNews作者 
@@ -18,7 +18,7 @@ hanyonglu  |  |  http://www.cnblogs.com/hanyonglu/     | Android动画与推送
 傲慢的上校  |  |  http://blog.csdn.net/lilu_leo   |     
 youxiachai  |  https://github.com/youxiachai   |   |  
 dodola  | https://github.com/dodola   | | 
-Issacw0ng  | https://github.com/Issacw0ng   | 
+Issacw0ng  | https://github.com/Issacw0ng   | http://imid.me  |  
 mcxiaoke | https://github.com/mcxiaoke   |  | 
 soarcn |  https://github.com/soarcn    |  | 
 谦虚的天下  | | http://www.cnblogs.com/qianxudetianxia/   |    
