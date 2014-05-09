@@ -4,7 +4,7 @@ android-cn
 
 
 昵称  | Github | 博客 | 介绍
-------------- | ------------- | ------------- | ------------- 
+:------------- | :------------- | :------------- | :------------- 
 邓凡平   | | http://blog.csdn.net/innost |  阿拉神农
 魏祝林  |  | http://blog.csdn.net/android_tutor |   
 Trinea  | https://github.com/trinea   | http://www.trinea.cn/    | 性能优化 开源项目 
@@ -12,7 +12,7 @@ halzhang | https://github.com/halzhang |  http://www.cnblogs.com/halzhang | Star
 wyouflf  |  https://github.com/wyouflf  |  http://my.oschina.net/u/1171837  |  xUtils作者
 张兴业  |  |  http://blog.csdn.net/xyz_lmn   | 
 代码家  | https://github.com/daimajia |  http://blog.daimajia.com/  |
-stormzhang  |  https://github.com/stormzhang  |  http://stormzhang.github.io/     | 
+stormzhang  |  https://github.com/stormzhang  |  http://stormzhang.github.io/  |  9Gag作者  AndroidDesign  Love开源
 hanyonglu  |  |  http://www.cnblogs.com/hanyonglu/     | Android动画与推送 
 闷瓜蛋子 |  |  http://www.fookwood.com/     |  云OS开发 
 傲慢的上校  |  |  http://blog.csdn.net/lilu_leo   |     
