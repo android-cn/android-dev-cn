@@ -2,6 +2,7 @@ android-cn
 ==========  
 一些国内Android开发者信息，欢迎提交修改  
 
+[English version](https://github.com/android-cn/android-dev-com)  
 
 昵称  | Github | 博客 | 介绍
 :------------- | :------------- | :------------- | :------------- 
