@@ -32,3 +32,4 @@ wangjinyu501  |   |  http://blog.csdn.net/wangjinyu501   |
 ASCE1885 |    |  http://blog.csdn.net/asce1885   | 
 qinjuning   |  |  http://blog.csdn.net/qinjuning   |         
 秋风的博客  |   |  http://blog.csdn.net/tangcheng_ok   |  
+任玉刚  |  https://github.com/singwhatiwanna   |  http://blog.csdn.net/singwhatiwanna |  Android开源
