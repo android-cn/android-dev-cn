@@ -1,6 +1,6 @@
 android-cn  
 ==========  
-一些国内Android开发者信息，欢迎提交修改  
+一些国内 Android 开发者信息，欢迎提交修改  
 
 [国外部分开发者信息](https://github.com/android-cn/android-dev-com)  
 
