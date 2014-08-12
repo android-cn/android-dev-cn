@@ -1,4 +1,4 @@
-android-cn  
+android-dev-cn  
 ==========  
 一些国内 Android 开发者信息，欢迎提交修改  
 
