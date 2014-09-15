@@ -35,6 +35,6 @@ qinjuning   |  |  http://blog.csdn.net/qinjuning   |
 秋风的博客  |   |  http://blog.csdn.net/tangcheng_ok   |  
 任玉刚  |  https://github.com/singwhatiwanna   |  http://blog.csdn.net/singwhatiwanna |  Android开源  
 农民伯伯  |  https://github.com/over140  |  http://over140.cnblogs.com |  开源视频  Android中文api  
-李宏伟  |  https://github.com/lihw  |  http://www.paper3d.net |  ![Paper3D](https://github.com/lihw/FutureInterface)  
-代震军  |  https://github.com/daizhenjun  |  http://www.cnblogs.com/daizhj |  开源ImageFilter库![Android](https://github.com/daizhenjun/ImageFilterForAndroid)
+李宏伟  |  https://github.com/lihw  |  http://www.paper3d.net |  [Paper3D](https://github.com/lihw/FutureInterface)  
+代震军  |  https://github.com/daizhenjun  |  http://www.cnblogs.com/daizhj |  开源ImageFilter库 [Android](https://github.com/daizhenjun/ImageFilterForAndroid)
 
