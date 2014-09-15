@@ -33,4 +33,5 @@ wangjinyu501  |   |  http://blog.csdn.net/wangjinyu501   |
 ASCE1885 |    |  http://blog.csdn.net/asce1885   | 
 qinjuning   |  |  http://blog.csdn.net/qinjuning   |         
 秋风的博客  |   |  http://blog.csdn.net/tangcheng_ok   |  
-任玉刚  |  https://github.com/singwhatiwanna   |  http://blog.csdn.net/singwhatiwanna |  Android开源
+任玉刚  |  https://github.com/singwhatiwanna   |  http://blog.csdn.net/singwhatiwanna |  Android开源  
+农民伯伯  |  https://github.com/over140  |  http://over140.cnblogs.com/ |  Android中文api 开源视频
