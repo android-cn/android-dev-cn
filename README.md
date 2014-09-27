@@ -37,4 +37,5 @@ qinjuning   |  |  http://blog.csdn.net/qinjuning   |
 农民伯伯  |  https://github.com/over140  |  http://over140.cnblogs.com |  [开源播放器](https://github.com/over140/OPlayer)  Android 中文 api  
 李宏伟  |  https://github.com/lihw  |  http://www.paper3d.net |  [Paper3D](https://github.com/lihw/FutureInterface)  
 代震军  |  https://github.com/daizhenjun  |  http://www.cnblogs.com/daizhj |  [ImageFilter库](https://github.com/daizhenjun/ImageFilterForAndroid)
+sunzn  |  |  http://www.cnblogs.com/sunzn/ |  Android 基础开发知识
 
