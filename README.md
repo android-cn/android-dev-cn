@@ -39,4 +39,5 @@ qinjuning | | [qinjuning@csdn](http://blog.csdn.net/qinjuning) |
 代震军 | [daizhenjun ](https://github.com/daizhenjun) | [daizhj@cnblogs](http://www.cnblogs.com/daizhj) | [ImageFilter库](https://github.com/daizhenjun/ImageFilterForAndroid)
 sunzn | | [sunzn@cnblogs](http://www.cnblogs.com/sunzn) | Android 基础开发知识
 pedant | [pedant ](https://github.com/pedant) | [书呆子精神院](http://pedant.cn/) | [SweetAlertDialog](https://github.com/pedant/sweet-alert-dialog)、安全与逆向
+androidyue | [androidyue](https://github.com/androidyue) | [技术小黑屋](http://droidyue.com/) | Android，Java研究
 
